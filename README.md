@@ -1,6 +1,6 @@
 ### Olá!!! Me chamo Alan Barcelos
 
-- 🔭 Trabalhando com Suporte N1/N2 e planejando migrar para desenvolvimento web
+- 🔭 Trabalhando com Suporte N1/N2 e me preparando para migrar para desenvolvimento web
 - 🌱 Estudando NodeJS
 
 <div align="center">
