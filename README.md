@@ -1,7 +1,7 @@
-### Olá!!! Me chamo Alan Barcelos
+### Hello!!! My name is Alan Barcelos
 
-- 🔭 Trabalhando com Suporte N1/N2 e me preparando para migrar para desenvolvimento web
-- 🌱 Estudando NodeJS
+- 🔭 I'm working with ERP Support and prepare to be backend developer
+- 🌱 Studying ReactJS and Go Lang
 
 <div align="center">
   <a href="https://github.com/alanbarcelos1998">
