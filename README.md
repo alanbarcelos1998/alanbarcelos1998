@@ -1,7 +1,8 @@
 ### Hello!!! My name is Alan Barcelos
 
 - 🔭 I'm working with ERP Support and prepare to be backend developer
-- 🌱 Studying ReactJS and Go Lang
+- 🌱 Studying VueJS
+- Experience in NodeJS(express), PHP
 
 <div align="center">
   <a href="https://github.com/alanbarcelos1998">
