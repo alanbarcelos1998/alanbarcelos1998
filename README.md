@@ -1,8 +1,9 @@
 ### Hello!!! My name is Alan Barcelos
 
 - 🔭 I'm working with ERP Support and prepare to be backend developer
-- 🌱 Studying VueJS
-- Experience in NodeJS(express), PHP
+- 🌱 Studying GoLang
+- Next technologies I will study: Docker, AWS. 
+- Experience in PHP, NodeJS(express), MySQL, Git and others technologys.
 
 <div align="center">
   <a href="https://github.com/alanbarcelos1998">
@@ -18,6 +19,7 @@
   <img align="center" alt="Alan-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Alan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alan-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Alan-GoLang" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div>
   
   ##
