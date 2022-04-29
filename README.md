@@ -1,6 +1,7 @@
 ### Hello!!! My name is Alan Barcelos
 
-- 🔭 Hi, My name is Alan and i a Junior Programmer, and working with PHP, JavaScript, Git, MySQL.
+- 🔭 Hi, My name is Alan and i a Junior Programmer.
+- Currently working with PHP, JavaScript, Git, MySQL.
 - 🌱 Studying GoLang
 - Experience in PHP, NodeJS(express), MySQL, Git, GoLang and others technologys.
 
