@@ -1,9 +1,8 @@
 ### Hello!!! My name is Alan Barcelos
 
-- 🔭 I'm working with ERP Support and prepare to be backend developer
+- 🔭 Hi, My name is Alan and i a Junior Programmer, and working with PHP, JavaScript, Git, MySQL.
 - 🌱 Studying GoLang
-- Next technologies I will study: Docker, AWS. 
-- Experience in PHP, NodeJS(express), MySQL, Git and others technologys.
+- Experience in PHP, NodeJS(express), MySQL, Git, GoLang and others technologys.
 
 <div align="center">
   <a href="https://github.com/alanbarcelos1998">
